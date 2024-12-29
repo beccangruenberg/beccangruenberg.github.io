@@ -1,3 +1,2 @@
 # Welcome!
-More to come!
-beccan.gruenbergs.net
+More to come! For the moment: beccan.gruenbergs.net
