@@ -1,4 +1,3 @@
-</head>
 <body>
     <header>
         <h1>Beccan Gruenberg</h1>
@@ -21,4 +20,3 @@
         </ul>
     </div>
 </body>
-</html>
