@@ -16,7 +16,7 @@
         <h2>Columbia Classes/Projects</h2>
     <p>Any private repos are likely in progress or not available for disclosure</p>
         <ul>
-            <li><strong><a href="https://github.com/beccangruenberg/STATUN2104">STATUN2104</a></strong> - Applied Categorical Data Analysis</li>
+            <li><strong><a href="https://github.com/beccangruenberg/CU-STATUN2104">STATUN2104</a></strong> - Applied Categorical Data Analysis</li>
         </ul>
     </div>
 </body>
