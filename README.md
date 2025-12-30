@@ -2,7 +2,7 @@
     <header>
         <div class="contact-info">
             Columbia University | Trinity College Dublin<br>
-            Personal Site: <a href="https://www.beccan.gruenbergs.net">beccan.gruenbergs.net</a><br>
+            Personal Site: <a href="https://beccan.gruenbergs.net">beccan.gruenbergs.net</a><br>
         </div>
     </header>
     <div class="section">
