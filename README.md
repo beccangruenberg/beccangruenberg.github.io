@@ -12,6 +12,7 @@
             <li><strong><a href="https://github.com/beccangruenberg/CU-STATUN2104">STATUN2104</a></strong> - Applied Categorical Data Analysis</li>
             <li><strong><a href="https://github.com/beccangruenberg/CU-COMSW1002">COMSW1002</a></strong> - Computing in Biology</li>
             <li><strong><a href="https://github.com/beccangruenberg/CU-STATUN3104">STATUN3104</a></strong> - Applied Bayesian Analysis</li>
+            <li><strong><a href="https://github.com/beccangruenberg/CU-STATUN3106">STATUN3106</a></strong> - Applied Machine Learning</li>
         </ul>
     </div>
 </body>
