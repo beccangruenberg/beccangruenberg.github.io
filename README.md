@@ -14,7 +14,7 @@
             <li><strong><a href="https://github.com/beccangruenberg/CU-STATUN3104">STATUN3104</a></strong> - Applied Bayesian Analysis</li>
             <li><strong><a href="https://github.com/beccangruenberg/CU-STATUN3106">STATUN3106</a></strong> - Applied Machine Learning</li>
             <ul>
-                <li><strong><a href="https://github.com/beccangruenberg/CU-STATUN3106-image-memorability">Final Project</a></strong> (<a href="https://github.com/beccangruenberg/CU-STATUN3106-image-memorability">Final Project</a>)</li>
+                <li><strong><a href="https://github.com/beccangruenberg/CU-STATUN3106-image-memorability">Final Project</a></strong> (<a href="[https://github.beccan.gruenbergs.net/CU-STATUN3106-image-memorability">Webpage</a>)</li>
             </ul>
         </ul>
     </div>
