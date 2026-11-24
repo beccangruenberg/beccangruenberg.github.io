@@ -3,9 +3,6 @@
     background-color: #000000 !important;
     color: #ffffff !important;
   }
-  .markdown-body > h1:first-child {
-    display: none; /* Hides the auto-generated repository title */
-  }
   .markdown-body h2 {
     border-bottom-color: #30363d !important;
   }
