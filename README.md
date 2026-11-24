@@ -21,7 +21,7 @@
 <header>
   <div class="contact-info">
     Incoming @ Oliver Wyman | Formerly @ CO Governor's Office, Axtria, GBHI | BA, Columbia University; BA (Mod) Trinity College Dublin<br>
-    <a class="site-link" href="https://gruenbergs.net">beccan.gruenbergs.net</a>
+    <a class="site-link" href="https://beccan.gruenbergs.net">beccan.gruenbergs.net</a>
   </div>
 </header>
 <div class="section">
