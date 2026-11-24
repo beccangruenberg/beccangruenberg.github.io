@@ -1,8 +1,18 @@
+<style>
+  html, body, .markdown-body {
+    background-color: #000000 !important;
+    color: #ffffff !important;
+  }
+  a {
+    color: #58a6ff !important; /* Keeps links readable on black */
+  }
+</style>
+
 <body>
     <header>
         <div class="contact-info">
-            Columbia University | Trinity College Dublin<br>
-            Personal Site: <a href="https://beccan.gruenbergs.net">beccan.gruenbergs.net</a><br>
+            Incoming @ Oliver Wyman | Formerly @ CO Governor's Office, Axtria, GBHI | BA, Columbia University; BA (Mod) Trinity College Dublin<br>
+            <a href="https://beccan.gruenbergs.net">beccan.gruenbergs.net</a><br>
         </div>
     </header>
     <div class="section">
